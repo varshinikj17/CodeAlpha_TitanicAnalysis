@@ -35,5 +35,8 @@ Titanic passenger data (891 rows, 15 columns), loaded from seaborn.
 - `heatmap.png`: fare correlates positively with survival, and pclass correlates negatively.
 
 ## How to Run
+## How to Run
+```
 pip install pandas seaborn matplotlib scipy
 python analysis.py
+```
